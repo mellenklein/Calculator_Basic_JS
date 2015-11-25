@@ -55,7 +55,7 @@ Taking what you have learned, create the below image in HTML/CSS and add the fun
 
 | Mockup                       | In Action                    |
 | ---------------------------- | ---------------------------- |
-| ![](./images/calculator.png) | ![](./images/calculator.gif) |
+| ![](https://raw.githubusercontent.com/theironyard-frontend-nashville/assignments/cohort2/week03/thur/images/calculator.png) | ![](https://raw.githubusercontent.com/theironyard-frontend-nashville/assignments/cohort2/week03/thur/images/calculator.gif) |
 
 
 ## Additional Resources
